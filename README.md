@@ -98,7 +98,6 @@ Phys. Rev. D \textbf{113}, no.11, 114010 (2026)
 doi:10.1103/wc54-mnfh
 [arXiv:2602.17298 [hep-ph]].
 %2 citations counted in INSPIRE as of 24 Jun 2026
-}
 ```
 
 ## Related HAPS fragmentation-function grids
