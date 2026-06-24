@@ -34,12 +34,12 @@ The analysis is performed consistently at next-to-leading order in perturbative 
 
 In addition to the existing world polarized DIS and SIDIS measurements, the analysis investigates simulated SIDIS pseudodata for the future Electron-Ion Collider using two representative beam-energy configurations:
 
-* (E_e \times E_p = 5 \times 41~\mathrm{GeV}^2)
-* (E_e \times E_p = 18 \times 275~\mathrm{GeV}^2)
+* $E_e \times E_p = 5 \times 41~\mathrm{GeV}^2$
+* $E_e \times E_p = 18 \times 275~\mathrm{GeV}^2$
 
-The EIC projections include longitudinal double-spin asymmetries for charge-separated pion and kaon production from a longitudinally polarized proton target. These measurements extend the kinematic coverage down to approximately (x \sim 10^{-5}).
+The EIC projections include longitudinal double-spin asymmetries for charge-separated pion and kaon production from a longitudinally polarized proton target. These measurements extend the kinematic coverage down to approximately $x \sim 10^{-5}$.
 
-The projected EIC measurements substantially improve the flavor separation of the polarized sea, particularly for (\Delta\bar{u}), (\Delta\bar{d}), and the strange-helicity sector. They also reduce the uncertainties of both quark and gluon helicity distributions, with the strongest impact in the poorly constrained small-(x) region.
+The projected EIC measurements substantially improve the flavor separation of the polarized sea, particularly for $\Delta\bar{u}$, $\Delta\bar{d}$, and the strange-helicity sector. They also reduce the uncertainties of both quark and gluon helicity distributions, with the strongest impact in the poorly constrained small-(x) region.
 
 The resulting HAPS-pPDF1.0 Monte Carlo replica set is provided in standard LHAPDF format.
 
@@ -58,8 +58,8 @@ The member convention is:
 
 The grid covers:
 
-* (10^{-5} \leq x \leq 1)
-* (1~\mathrm{GeV} \leq Q \leq 1000~\mathrm{GeV})
+* $10^{-5} \leq x \leq 1$
+* $1~\mathrm{GeV} \leq Q \leq 1000~\mathrm{GeV}$
 
 ## Repository structure
 
